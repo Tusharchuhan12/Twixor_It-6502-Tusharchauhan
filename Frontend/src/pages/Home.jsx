@@ -1,12 +1,12 @@
 import React from 'react'
-import Baner from '../components/baner';
+import Banner from '../components/Banner';
 import Products from '../pages/Products';
 
 function Home() {
     return (
         <div>
 
-            <Baner />
+            <Banner />
 
             <Products />
 
