@@ -1,0 +1,13 @@
+@import "tailwindcss";
+body {
+  font-family: 'Inter', sans-serif;
+}
+.carousel .control-arrow {
+  background: transparent !important;
+  box-shadow: none !important;
+  opacity: 1 !important;
+}
+
+.carousel .control-arrow:hover {
+  background: transparent !important;
+}
