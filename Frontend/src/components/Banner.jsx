@@ -2,14 +2,14 @@ import React from "react";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
-import sliderImg_1 from "../images/slider/slide1.jpg";
-import sliderImg_2 from "../images/slider/slide2.jpg";
-import sliderImg_3 from "../images/slider/slide3.jpg";
-import sliderImg_4 from "../images/slider/slide4.jpg";
-import sliderImg_5 from "../images/slider/slide5.jpg";
-import sliderImg_6 from "../images/slider/slide6.jpg";
-import sliderImg_7 from "../images/slider/slide7.jpg";
-import sliderImg_8 from "../images/slider/slide8.jpg";
+import sliderImg_1 from "/images/slider/slide1.jpg";
+import sliderImg_2 from "/images/slider/slide2.jpg";
+import sliderImg_3 from "/images/slider/slide3.jpg";
+import sliderImg_4 from "/images/slider/slide4.jpg";
+import sliderImg_5 from "/images/slider/slide5.jpg";
+import sliderImg_6 from "/images/slider/slide6.jpg";
+import sliderImg_7 from "/images/slider/slide7.jpg";
+import sliderImg_8 from "/images/slider/slide8.jpg";
 
 const Baner = () => {
     const images = [

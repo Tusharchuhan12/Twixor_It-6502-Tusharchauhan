@@ -1,12 +1,3 @@
-import laptop from "../images/laptop.jpg";
-import mobile from "../images/mobile.jpg";
-import headphones from "../images/headphone.jpg";
-import smartwatch from "../images/smartwatch.jpg";
-import tablet from "../images/tablet.jpg";
-import gamingMouse from "../images/GamingMouse.jpg";
-import keyboard from "../images/keyboard.jpg";
-import monitor from "../images/monitor.jpg";
-
 export const products = [
     {
         id: 1,
@@ -15,7 +6,7 @@ export const products = [
         brand: "Dell",
         description:
             "This Dell laptop is designed for developers and professionals who need high performance and reliability.",
-        image: laptop,
+        image: "/images/laptop.jpg",
     },
     {
         id: 2,
@@ -24,7 +15,7 @@ export const products = [
         brand: "Samsung",
         description:
             "This Samsung smartphone offers a modern design with powerful performance and excellent camera quality.",
-        image: mobile,
+        image: "/images/mobile.jpg",
     },
     {
         id: 3,
@@ -33,7 +24,7 @@ export const products = [
         brand: "Sony",
         description:
             "Sony noise-cancelling headphones provide immersive audio experience with deep bass.",
-        image: headphones,
+        image: "/images/headphone.jpg",
     },
     {
         id: 4,
@@ -42,7 +33,7 @@ export const products = [
         brand: "Apple",
         description:
             "This smartwatch helps track fitness activities like heart rate, steps and notifications.",
-        image: smartwatch,
+        image: "/images/smartwatch.jpg",
     },
     {
         id: 5,
@@ -51,7 +42,7 @@ export const products = [
         brand: "Apple",
         description:
             "A powerful tablet with large display perfect for entertainment and productivity.",
-        image: tablet,
+        image: "/images/tablet.jpg",
     },
     {
         id: 6,
@@ -60,7 +51,7 @@ export const products = [
         brand: "Logitech",
         description:
             "Gaming mouse with high precision tracking and customizable buttons.",
-        image: gamingMouse,
+        image: "/images/GamingMouse.jpg",
     },
     {
         id: 7,
@@ -69,7 +60,7 @@ export const products = [
         brand: "HP",
         description:
             "Durable keyboard suitable for typing, office work and gaming.",
-        image: keyboard,
+        image: "/images/Keyboard.jpg",
     },
     {
         id: 8,
@@ -78,6 +69,6 @@ export const products = [
         brand: "LG",
         description:
             "Full HD monitor with vibrant colors and wide viewing angles.",
-        image: monitor,
+        image: "/images/Monitor.jpg",
     },
 ];
