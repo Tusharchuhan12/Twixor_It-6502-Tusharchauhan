@@ -58,7 +58,7 @@ const Baner = () => {
                         <div className="absolute bottom-6 left-1/2 -translate-x-1/2 bg-white px-6 py-3 rounded-md shadow-lg text-center">
 
                             <p className="text-sm sm:text-base text-gray-800">
-                                You are on amazon.com. You can also shop on Amazon India.
+                                You aree on amazon.com. You can also shop on Amazon India.
                             </p>
 
                           
